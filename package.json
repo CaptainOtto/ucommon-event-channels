@@ -3,7 +3,7 @@
   "displayName": "Unity Common Event Channels",
   "version": "0.0.1-preview",
   "unity": "2020.4",
-  "unityRelease": "30f1"
+  "unityRelease": "30f1",
   "description": "Package for event channels to use for different type of events.",
   "keywords": [
     "events",
