@@ -3,6 +3,7 @@
   "displayName": "Unity Common Event Channels",
   "version": "0.0.1-preview",
   "unity": "2020.4",
+  "unityRelease": "30f1"
   "description": "Package for event channels to use for different type of events.",
   "keywords": [
     "events",
@@ -20,7 +21,7 @@
       "displayName": "Void Event Channel",
       "description": "Contains sample for showcasing void event channel in action.",
       "path": "Samples/VoidEventChannel"
-    },
+    }
   ],
   "bugs": {
     "url": "https://github.com/CaptnJohn/ucommon-event-channels/issues",
@@ -28,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh:/git@github.com:CaptnJohn/ucommon-event-channels.git"
+    "url": "https://github.com/CaptnJohn/ucommon-event-channels.git"
   }
 }
