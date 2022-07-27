@@ -1,0 +1,16 @@
+{
+    "name": "UCommmon.EventChannels.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:05fd14e002cbf4f459bfdf2a1f9385e5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

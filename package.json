@@ -15,6 +15,13 @@
     "email": "jottossonta@gmail.com",
     "url": "https://github.com/CaptnJohn"
   },
+  "samples": [
+    {
+      "displayName": "Void Event Channel",
+      "description": "Contains sample for showcasing void event channel in action.",
+      "path": "Samples/VoidEventChannel"
+    },
+  ],
   "bugs": {
     "url": "https://github.com/CaptnJohn/ucommon-event-channels/issues",
     "email": "jottossonta@gmail.com"
