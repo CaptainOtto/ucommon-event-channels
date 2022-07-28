@@ -2,6 +2,7 @@
 
 [![License Badge](https://img.shields.io/apm/l/ucommon-event-channels)](/LICENSE.md)
 [![Issues](https://img.shields.io/github/issues/CaptnJohn/ucommon-event-channels)](https://github.com/CaptnJohn/ucommon-event-channels/issues)
+[![Version](https://img.shields.io/github/package-json/v/CaptnJohn/ucommon-event-channels)](https://img.shields.io/github/package-json/v/CaptnJohn/ucommon-event-channels)
 
 ![image](https://user-images.githubusercontent.com/16833945/181438270-f99e16d0-40e0-4a6a-9ad1-7ade7e30eb75.png)
 
