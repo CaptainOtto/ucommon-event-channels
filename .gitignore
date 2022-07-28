@@ -26,10 +26,6 @@
 # Visual Studio cache directory
 .vs/
 
-/Runtime/Channels/*.cs.meta
-/Runtime/Core/*.cs.meta
-
-
 # Gradle cache directory
 .gradle/
 
