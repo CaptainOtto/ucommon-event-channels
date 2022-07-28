@@ -1,7 +1,7 @@
 {
   "name": "com.ucommon.event-channels",
   "displayName": "Unity Common Event Channels",
-  "version": "0.0.1-preview",
+  "version": "0.0.5-preview",
   "unity": "2020.4",
   "unityRelease": "30f1",
   "description": "Package for event channels to use for different type of events.",
