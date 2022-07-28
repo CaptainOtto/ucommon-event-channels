@@ -19,8 +19,13 @@
   "samples": [
     {
       "displayName": "Void Event Channel",
-      "description": "Contains sample for showcasing void event channel in action.",
+      "description": "Contains sample for showcasing void event channel.",
       "path": "Samples/VoidEventChannel"
+    },
+    {
+      "displayName": "One Parameter Event Channels",
+      "description": "Contains sample for showcasing event channels with one parameter.",
+      "path": "Samples/OneParamEventChannels"
     }
   ],
   "bugs": {
