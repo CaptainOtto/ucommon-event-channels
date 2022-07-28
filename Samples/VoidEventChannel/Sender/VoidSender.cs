@@ -8,7 +8,7 @@ namespace UCommon.EventChannels.Samples
     public class VoidSender : MonoBehaviour
     {
         [SerializeField] private Collider testCollider;
-        [SerializeField] private UVoidEventChannel voidEvent;
+        [SerializeField] private UEventChannel voidEvent;
 
         private void Update()
         {
@@ -19,7 +19,7 @@ namespace UCommon.EventChannels.Samples
                 RaycastHit hit;
                 if (testCollider.Raycast(ray, out hit, 100))
                 {
-                    voidEvent.Trigger();
+                    voidEvent.Emit();
                 }
             }
         }
