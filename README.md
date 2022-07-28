@@ -1,4 +1,4 @@
-# [UCommon]- Unity Common Event Channels package
+# [CaptnJohn](https://github.com/CaptnJohn/ucommon-event-channels) - Unity Common Event Channels package
 
 [![License Badge](https://img.shields.io/apm/l/ucommon-event-channels)](/LICENSE.md)
 
