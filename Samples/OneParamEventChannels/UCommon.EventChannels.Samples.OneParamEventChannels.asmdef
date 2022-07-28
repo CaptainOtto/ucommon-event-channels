@@ -1,5 +1,5 @@
 {
-    "name": "UCommmon.EventChannels.Samples",
+    "name": "UCommmon.EventChannels.Samples.OneParamEventChannels",
     "rootNamespace": "",
     "references": [
         "GUID:05fd14e002cbf4f459bfdf2a1f9385e5"
