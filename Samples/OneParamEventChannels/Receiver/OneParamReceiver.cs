@@ -33,17 +33,17 @@ namespace UCommon.EventChannels.Samples
 
         public void OnReceivedBoolEvent(bool value)
         {
-            Debug.Log($"Received Event from: {intEvent.channelName}, value: {value}");
+            Debug.Log($"Received Event from: {boolEvent.channelName}, value: {value}");
         }
 
         public void OnReceivedFloatEvent(float value)
         {
-            Debug.Log($"Received Event from: {intEvent.channelName}, value: {value}");
+            Debug.Log($"Received Event from: {floatEvent.channelName}, value: {value}");
         }
 
         public void OnReceivedStringEvent(string value)
         {
-            Debug.Log($"Received Event from: {intEvent.channelName}, value: {value}");
+            Debug.Log($"Received Event from: {stringEvent.channelName}, value: {value}");
         }
     }
 }

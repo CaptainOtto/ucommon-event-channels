@@ -26,6 +26,8 @@
 # Visual Studio cache directory
 .vs/
 
+/Runtime/*.meta
+
 # Gradle cache directory
 .gradle/
 

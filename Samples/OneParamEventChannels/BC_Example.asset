@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d68cce364d56ae64e92bc2b1f53b2ed5, type: 3}
+  m_Script: {fileID: 11500000, guid: da9d17d9d62a2d24f913bda54563cca3, type: 3}
   m_Name: BC_Example
   m_EditorClassIdentifier: 
-  channelName: Bool Example
+  channelName: 
   description: 

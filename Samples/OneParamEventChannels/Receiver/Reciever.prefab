@@ -47,7 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   intEvent: {fileID: 11400000, guid: 74af117dc9713e7498e6c574a5086d07, type: 2}
   boolEvent: {fileID: 11400000, guid: 8700647efae84984a86167642407716a, type: 2}
-  stringEvent: {fileID: 11400000, guid: c57834371304427428fd8595a092886a, type: 2}
+  stringEvent: {fileID: 11400000, guid: ffb1b7971bd7e6049b874e9957a4d537, type: 2}
   floatEvent: {fileID: 11400000, guid: f2396ae188ed5024b8478af969be12b3, type: 2}
 --- !u!1 &3633393186060910172
 GameObject:
