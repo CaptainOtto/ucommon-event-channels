@@ -5,21 +5,21 @@ namespace UCommon.EventChannels.Samples
 {
     public class VoidReceiver : MonoBehaviour
     {
-        [SerializeField] private UVoidEventChannel voidEvent = default;
+        [SerializeField] private UEventChannel voidEvent = default;
 
         private void OnEnable()
         {
-            voidEvent.EventAction += OnReceivedEvent;
+            voidEvent.Action += OnReceivedEvent;
         }
 
         private void OnDisable()
         {
-            voidEvent.EventAction -= OnReceivedEvent;
+            voidEvent.Action -= OnReceivedEvent;
         }
         
         public void OnReceivedEvent()
         {
-            Debug.Log($"Received Event from: {voidEvent.nameID}");
+            Debug.Log($"Received Event from: {voidEvent.channelName}");
         }
     }
 }
